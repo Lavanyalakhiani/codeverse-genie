@@ -1,5 +1,5 @@
 # CodeVerse Genie 🧞‍♂️✨  
-**An AI-driven coding assistant integrated into the [CodeVerse]([https://github.com/codehiveofficial/codehive](https://github.com/Lavanyalakhiani/codeverse)) platform.**  
+**An AI-driven coding assistant integrated into the [CodeVerse]([https://github.com/Lavanyalakhiani/codeverse]) platform.**  
 
 CodeVerse Genie is a Python-based Flask API that leverages advanced Large Language Models (LLMs) to provide coding assistance within the Codehive collaborative platform. It specializes in generating, debugging, and optimizing code, designed to empower developers with seamless and accurate coding support.
 
